@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T22:08:26.526Z",
+  "updatedAt": "2026-11-21T20:45:11.199Z",
   "products": [
     {
       "id": 166538725,
@@ -32,14 +32,6 @@
       "image": "products/166447836.jpg",
       "url": "https://ascoral.base.shop/items/166447836",
       "listOrder": 4
-    },
-    {
-      "id": 166447778,
-      "title": "EG.05　ハナサンゴ　スンバワゴールド1ヘッド",
-      "price": 15400,
-      "image": "products/166447778.jpg",
-      "url": "https://ascoral.base.shop/items/166447778",
-      "listOrder": 5
     },
     {
       "id": 166447303,
