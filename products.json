@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T02:01:33.441Z",
+  "updatedAt": "2026-11-24T23:47:38.512Z",
   "products": [
     {
       "id": 166538725,
@@ -536,30 +536,6 @@
       "image": "products/163093024.jpg",
       "url": "https://ascoral.base.shop/items/163093024",
       "listOrder": 75
-    },
-    {
-      "id": 163092824,
-      "title": "EG.03　ドラゴンソウルトーチ　2ヘッド４番",
-      "price": 13200,
-      "image": "products/163092824.jpg",
-      "url": "https://ascoral.base.shop/items/163092824",
-      "listOrder": 76
-    },
-    {
-      "id": 163092769,
-      "title": "EG.03　ドラゴンソウルトーチ　2ヘッド３番",
-      "price": 13200,
-      "image": "products/163092769.jpg",
-      "url": "https://ascoral.base.shop/items/163092769",
-      "listOrder": 77
-    },
-    {
-      "id": 163092711,
-      "title": "EG.03　ドラゴンソウルトーチ　2ヘッド２番",
-      "price": 13200,
-      "image": "products/163092711.jpg",
-      "url": "https://ascoral.base.shop/items/163092711",
-      "listOrder": 78
     },
     {
       "id": 163092648,
